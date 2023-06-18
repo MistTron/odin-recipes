@@ -1,0 +1,29 @@
+ * {
+   font-family: 'courier new';
+   background-color: antiquewhite;
+ }
+
+ .center, ul{
+    text-align: center;
+    width: auto;
+ }
+
+ .centered {
+   text-align: center;
+   width: auto;
+   height: auto;
+   margin: 30px;
+ }
+
+  .color {
+    background-color: rgb(194, 170, 138);
+    padding: 20px;
+  }
+
+  .margin {
+    margin-bottom: 30px;
+  }
+  
+
+
+
